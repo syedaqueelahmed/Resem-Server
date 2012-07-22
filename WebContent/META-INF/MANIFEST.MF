@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: 
+Specification-Title: Emergency Response Server
+Specification-Version: 0.1
+Implementation-Title: Emergency Response Server
+Implementation-Version: 0.1
